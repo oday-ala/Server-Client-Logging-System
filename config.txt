@@ -1,0 +1,5 @@
+port=[PORT_NUMBER]
+directory=[DIRECTORY_OF_LOG_FILE]
+ip_address=[IP_ADDRESS]
+log_file_threshold=[MAXIMUM_BYETS_PER_LOG_FILE]
+max_log_files=[NUMBER_OF_LOG_FILES]
